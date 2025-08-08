@@ -1,1 +1,1 @@
-This is my first project 
+This is the simple calculator project.
