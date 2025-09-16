@@ -1,1 +1,1 @@
-Calculator project.
+This is the Calculator project.
